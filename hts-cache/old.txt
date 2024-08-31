@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:44:14	95/95	U-----	200	untouched ('OK')	text/plain	etag:%227ab8301754d7a1b032507bc8deb54ae0%22	https://technebula.framer.wiki/robots.txt		(from )
+15:44:15	371793/371793	U--M-Z	200	updated ('OK')	text/html	etag:%223e8ae01ccc5b7f8e28edbf3700656733%22	https://technebula.framer.wiki/	C:/My%20Web%20Sites/technebula%20creativity/index-2.html	(from )
